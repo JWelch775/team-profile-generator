@@ -10,7 +10,7 @@
 ## Description
 * This app will allow an employer to create a detailed list of their employees. Including their Names, ID numbers, Email, GitHub username where applicable, and their School where applicable
 ## Installation 
-* Simply run the command 'node index' from your command line in the root directory of this application
+* Download the application from this repository then simply run the command 'node index' from your command line in the root directory of this application
 ## Usage 
 * You can use this application to easily compile a list of team members and their manager for quick reference
 ## Credits
