@@ -29,4 +29,4 @@ This project is covered under the license License [MIT](https://opensource.org/l
 
 Link to the github [repository](https://github.com/JWelch775/team-profile-generator)
 
-[img](./assets/images/project-image)
+![img](./assets/images/project-image)
