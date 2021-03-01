@@ -28,5 +28,6 @@ This project is covered under the license License [MIT](https://opensource.org/l
 * Follow me on Github at [JWelch775](http://github.com/JWelch775)
 
 Link to the github [repository](https://github.com/JWelch775/team-profile-generator)
+Link to the [demo video](https://youtu.be/_ouJ6VDGCQ8)
 
 ![img](./assets/images/project-image.png)
